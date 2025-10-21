@@ -1,6 +1,8 @@
 # FoodGenie
 This was a full stack project I completed during the 2025 DubHacks Hackathon.
 
+<img width="1919" height="1025" alt="original" src="https://github.com/user-attachments/assets/30d99cf3-ab38-4d5d-8343-beab65b7d2c9" />
+
 ## 🥗 FoodGenie: The Personalized Nutrition Navigator
 
 ### 💡 Inspiration: The Consumer Problem
